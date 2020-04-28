@@ -2,6 +2,7 @@
 Clasificador de Fake News con Keras
 
 Los datasets se pueden descargar de https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
+Las notebooks subidas llevan la siguiente estructura:
 
 1.  Objetivo
 2.  Importación de Librerias 
