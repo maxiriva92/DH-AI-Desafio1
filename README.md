@@ -1,6 +1,8 @@
 # DH-AI-Desafio1
 Clasificador de Fake News con Keras
 
+Los datasets se pueden descargar de https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
+
 1.  Objetivo
 2.  Importación de Librerias 
 3.  Análisis Preliminar de Dataset y Visualización de Datos
